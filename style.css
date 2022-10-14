@@ -828,7 +828,7 @@ th {
 
 
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 440px) {
     #head {
         max-width: 414px;
         min-height: 80px;
@@ -1113,7 +1113,7 @@ th {
 
 
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 424px) {
     #head {
         max-width: 398px;
         min-height: 80px;
@@ -1405,7 +1405,7 @@ th {
 
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 385px) {
     #head {
         max-width: 359px;
         min-height: 80px;
@@ -1696,7 +1696,7 @@ th {
 
 
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 370px) {
     #head {
         max-width: 344px;
         min-height: 80px;
@@ -1987,7 +1987,7 @@ th {
 
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 330px) {
     #head {
         max-width: 304px;
         min-height: 80px;
